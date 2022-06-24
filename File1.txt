@@ -7,3 +7,4 @@ Commit test
 Add Line
 New line
 TEST LINE
+NEW line for GUI
